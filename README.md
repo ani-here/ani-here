@@ -1,7 +1,6 @@
 # Hi, I'm Anirudhan R 👋
 
-Welcome to my GitHub profile! I'm currently a 3rd-year student pursuing an **Integrated M.Sc. in Theoretical Computer Science** at PSG College of Technology. I am passionate about **algorithms**, **backend development**, and **competitive programming**.
-
+Welcome to my GitHub profile! I'm currently a 3rd-year student pursuing an **Integrated M.Sc. in Theoretical Computer Science** at PSG College of Technology. 
 ---
 
 ## 🌟 About Me
