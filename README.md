@@ -19,17 +19,17 @@ Welcome to my GitHub profile! I'm currently a 3rd-year student pursuing an **Int
 
 ## 🚀 Projects
 
-### [Distributed Load Balancer](https://github.com/your-repo/load-balancer)
+### [Distributed Load Balancer](https://github.com/ani-here/Load-Balancer)
 - **Description**: Developed a Python-based load balancer using the Round Robin algorithm to distribute traffic among multiple backend servers.
 - **Features**: Implemented health checks for monitoring server availability, ensuring fault tolerance and seamless request handling.
 
-### [Geospatial Quadtree System](https://github.com/your-repo/quadtree-system)
+### [Geospatial Quadtree System](https://github.com/ani-here/Geospatial-Quadtree-System)
 - **Description**: Implemented Quadtree in JavaScript using p5.js to efficiently manage and query two-dimensional spatial data.
 - **Features**: Spatial partitioning, optimized insertion, and finding nearest points within a specified area.
 
-### [Todo Application](https://github.com/your-repo/todo-app)
-- **Description**: Built a secure Todo application using Node.js, Express.js, SQLite, and JWT authentication.
-- **Features**: Authentication-protected CRUD operations, bcrypt for password hashing, and modular backend design.
+### [Bonded](https://github.com/ani-here/Bonded)
+- **Description**: Built a backend for social media application using Node.js, Express.js, MongoDB, and JWT authentication.
+- **Features**: Provides modular RESTFul APIs for user authentication, post management, comments, likes, and user interactions such as following and unfollowing.
 
 ---
 
