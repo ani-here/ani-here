@@ -1,4 +1,4 @@
-# Hi, I'm Anirudhan R 👋
+# Hi, I'm Anirudhan R
 
 ### Welcome to my GitHub profile! I'm currently a 3rd-year student pursuing an **Integrated M.Sc. in Theoretical Computer Science** at PSG College of Technology.  
 ---
