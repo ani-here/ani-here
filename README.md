@@ -32,14 +32,6 @@
 
 ---
 
-## 💻 Competitive Programming
-
-I enjoy solving algorithmic problems and participating in competitive programming contests:
-- [**Codeforces**](https://codeforces.com/profile/velvetglove03): *Pupil* (Rating: 1234)
-- [**CodeChef**](https://www.codechef.com/users/anirudhan_r): *3-star* (Rating: 1632)
-
----
-
 ## 📫 Let's Connect
 - **Email**: [22pt02@psgtech.ac.in](mailto:22pt02@psgtech.ac.in)
 - **LinkedIn**: [Anirudhan_R](https://www.linkedin.com/in/anirudhan-r-55792a283/)
