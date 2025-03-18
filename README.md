@@ -1,4 +1,4 @@
-# This is Anirudhan R
+# Hey there!
 
 ### I'm currently a 3rd-year student pursuing an **Integrated M.Sc. in Theoretical Computer Science** at PSG College of Technology.  
 ---
